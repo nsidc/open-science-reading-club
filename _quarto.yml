@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "NSIDC Open Science Reading Club"
+  site-url: "https://nsidc.github.io/open-science-reading-club"
+  repo-url: &repo-url "https://github.com/nsidc/open-science-reading-club"
+  repo-actions: ["edit", "issue"]
+
+  navbar:
+    left:
+      - text: "Meetings"
+        file: "meetings/index.md"
+      - text: "Placeholder"
+
+  page-footer:
+    left: "© 2024"
+    right: "Built with [Quarto](https://quarto.org/) ❤️"
+
+
+format:
+  html:
+    from: "markdown+emoji"
+    theme:
+      light: ["litera", "styles.scss"]
+      dark: ["darkly", "styles.scss"]
+    toc: true
+
+
+# TODO: Do we want comments? Giscus allows comments that are linked to GitHub
+#       Discussions.
