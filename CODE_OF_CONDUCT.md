@@ -1,76 +1,67 @@
-# Contributor Covenant Code of Conduct
+## Code of Conduct
 
-## Our Pledge
+**Version 1, January 2024**
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+------------------------------------------------------------------------
 
-## Our Standards
+### Our community is the most valuable thing about the open science reading club.
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Supporting a safe, inclusive, welcoming, and harassment-free experience for everyone in our community is paramount, as is strengthening connections with other communities that have influenced our work. Our Code of Conduct is heavily drawn from [OpenScapes](https://github.com/Openscapes/website-new/blob/main/code-of-conduct.qmd) who drew from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area.
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+Open science reading club is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone.
 
-Examples of unacceptable behavior by participants include:
+Diversity is our strength, we try to cultivate a tone where everyone in the community, no matter their backgrounds and accomplishments, comes with a mind open to learning from, with, and for each other. In this mindset, questions are always welcome and appropriate because they don't expose the lack of knowledge of the asker. Rather, questions expose opportunities for clarification for the original communicator, and for further opening up the conversation to include different perspectives and learning styles.
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+In our community we encourage listening and empathy in all of our interactions. This means:
 
-## Our Responsibilities
+**Be Respectful**
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Value each other's ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes -- if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+**Be Direct but Professional**
 
-## Scope
+We are likely to have some discussions about if and when criticism is respectful and when it's not. We must be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don't seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+**Be Inclusive**
 
-## Enforcement
+Seek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at nsidc@nsidc.org. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Be inclusive of everyone in an interaction, respecting and facilitating people's participation whether they are:
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+-   Remote (on video or phone)
+-   Not native language speakers
+-   Coming from a different culture, perspective, or background
+-   Using pronouns other than "he" or "she"
+-   Living in a different time zone
+-   Facing other challenges to participate
 
-## Attribution
+If you find yourself dominating a discussion, it is especially important to step back, encourage other voices to join in, and listen actively to them.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+**Understand Different Perspectives**
 
-[homepage]: https://www.contributor-covenant.org
+Our goal should not be to "win" every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. "Winning" is when different perspectives make our work richer and stronger.
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+**Appreciate and Accommodate Our Similarities and Differences**
+
+We come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others' perspectives, contributions, and needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people's right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect everyone to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one's native culture is only part of positive interactions.
+
+**Lead by Example**
+
+By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for our community.
+
+### Summary
+
+Be respectful, honest, inclusive, accommodating, appreciative, and open to learning from everyone else.
+
+Do not attack, demean, disrupt, harass, or threaten others or encourage such behavior.
+
+This Code of Conduct applies to all people participating in the open science reading club, including staff and leadership. It applies to all modes of interaction online including GitHub project repositories, remote calls, and in person at events.
+
+### Reporting Guidelines
+
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting an organiser [Robyn Marowitz](https://github.com/rmarow) at robyn.marowitz@colorado.edu or independent community member Trey Stafford at trey.stafford@colorado.edu with a description of what has occurred and any supporting information that would be helpful. After receiving a concise description of your situation, Julia or Allison will review the report and determine next steps. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+
+------------------------------------------------------------------------
+
+The Open Science Reading club Code of Conduct is heavily drawn from [OpenScapes](https://github.com/Openscapes/website-new/blob/main/code-of-conduct.qmd) who drew from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area (see Mozilla's [inclusion repo](https://github.com/mozilla/inclusion). Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and the groups described in [open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from [Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from [EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394) and [the coop at Fred Hutch](https://fredhutch.github.io/coop/community/coop-values/).
+
