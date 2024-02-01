@@ -11,7 +11,9 @@ website:
     left:
       - text: "Meetings"
         file: "meetings/index.md"
-      - text: "Placeholder"
+      - text: "Code of Conduct"
+        file: "CODE_OF_CONDUCT.md"
+
 
   page-footer:
     left: "© 2024"
