@@ -14,6 +14,10 @@ website:
       - text: "Code of Conduct"
         file: "CODE_OF_CONDUCT.md"
 
+    right:
+      - icon: "github"
+        aria-label: "GitHub"
+        href: *repo-url
 
   page-footer:
     left: "© 2024"
