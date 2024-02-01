@@ -11,10 +11,13 @@ website:
     left:
       - text: "Meetings"
         file: "meetings/index.md"
-      - text: "Code of Conduct"
-        file: "CODE_OF_CONDUCT.md"
+      - text: "Reading list"
+        file: "reading-list.md"
+
 
     right:
+      - text: "Code of Conduct"
+        file: "CODE_OF_CONDUCT.md"
       - icon: "github"
         aria-label: "GitHub"
         href: *repo-url
