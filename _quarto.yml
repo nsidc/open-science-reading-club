@@ -12,7 +12,7 @@ website:
       - text: "Meetings"
         file: "meetings/index.md"
       - text: "Code of Conduct"
-        file: "admin/code-of-conduct.md"
+        file: "CODE_OF_CONDUCT.md"
 
   page-footer:
     left: "© 2024"
