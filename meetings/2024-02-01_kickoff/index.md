@@ -8,7 +8,8 @@ The following is a summary captured from a group note-taking document. Notes bel
 each reflect a different speaker. When there was consensus in our notes, that will be
 called out explicitly.
 
-Quotes without context, e.g. "attractive fields", can be found in the reading :smile:
+Quoted terms without context, e.g. "attractive fields", can be found in the reading!
+:book:
 
 
 ## Attendees
@@ -51,7 +52,7 @@ We used <https://menti.com> to do a brief survey:
   who care.
 
 
-### Cheeks in chairs
+### "Cheeks in chairs"
 
 * Could be a useful method to narrow to a small number of ideas from a large number of
   perspectives.
