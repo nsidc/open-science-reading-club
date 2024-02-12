@@ -18,7 +18,7 @@ _TODO_
 ## Past reading
 
 ### [Emergent Design for Generative Change: Dialogic Theory at Work](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
-Meeting notes have been posted.
+Meeting notes have been posted [here](https://nsidc.github.io/open-science-reading-club/meetings/2024-02-01_kickoff/)
 
 ## Potential Readings
 
