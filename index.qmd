@@ -1,5 +1,0 @@
----
-title: "NSIDC Open Science Reading Club"
----
-
-_TODO_
