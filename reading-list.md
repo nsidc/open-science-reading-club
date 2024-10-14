@@ -13,6 +13,7 @@ _TODO_
 
 ## Past reading
 
+* 2024-09-11: [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)
 * 2024-05-20: [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
   * [Meeting notes](/meetings/2024-02-01_kickoff/index.md)
 * 2024-02-01: [Emergent Design for Generative Change: Dialogic Theory at Work](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)
