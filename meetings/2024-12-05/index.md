@@ -10,12 +10,11 @@ Trey Stafford, Matt Fisher, Julia Collins, Ann Windnagel, Andy Barrett, Robyn Ma
 
 
 ## Discussion
-
-### CARE  
-Collective benefit
-Authority to control
-Responsibility
-Ethics
+*  CARE  
+    * Collective benefit
+    * Authority to control
+    * Responsibility
+    * Ethics
 * Operationalizing = Make evaluation more objective, less subjective
 * The FAIR equivalent: FAIR Data Maturity Model
 * FAIR seems easier to implement. CARE has more of a human dimension.
